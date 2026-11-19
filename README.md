@@ -9,6 +9,7 @@ Everything here is something I use.
 ## What's here
 
 - **[claude-skills](https://github.com/haleyhougaard/claude-skills):** the Claude skills I run my own work on. An Etsy print-on-demand operator, a TikTok Shop script writer and a daily growth check for DTC brands.
+- **[poshmark-stylist](https://github.com/haleyhougaard/poshmark-stylist):** a Claude skill that styles your Poshmark likes into a lookbook, in your sizes, colors and budget.
 
 ## Work with me
 
